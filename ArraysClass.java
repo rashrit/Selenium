@@ -25,7 +25,7 @@ public class ArraysClass {
 		System.out.println();
 		}
 		
-		 // Object  Array
+		 // Object  Array editing comment
 		Object arr3[]= new Object[5];
 		arr3[0] = "Tom";
 		arr3[1] = 35;
